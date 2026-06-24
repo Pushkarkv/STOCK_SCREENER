@@ -23,3 +23,5 @@ langgraph==0.4.8
 
 # Utilities
 tenacity==9.1.2
+numpy>=1.26.0
+pandas>=2.1.0
