@@ -289,8 +289,8 @@ Gemini → Groq → Mistral → NVIDIA NIM → OpenRouter
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Priyanshukv06/STOCK_SCREENER_PRIVATE.git
-cd STOCK_SCREENER_PRIVATE
+git clone https://github.com/Pushkarkv/STOCK_SCREENER.git
+cd STOCK_SCREENER
 ```
 
 ### 2. Backend Setup
